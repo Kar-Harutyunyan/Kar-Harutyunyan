@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack & Core Competencies
 
-- **Languages:** TypeScript, JavaScript, Ruby, PHP, SQL
+- **Languages:** Ruby, PHP, TypeScript, JavaScript, SQL
 - **Backend:** Ruby on Rails, Laravel, Node.js, Express.js, RESTful APIs, GraphQL
 - **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Shadcn/ui
 - **Databases & Caching:** PostgreSQL (GIN/B-Tree Indexing), MySQL, Redis, MongoDB, SQLite
