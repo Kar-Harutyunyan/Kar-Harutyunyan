@@ -1,6 +1,6 @@
 # Hi there, I'm Karen Harutyunyan 👋
 
-**Full-Stack / Backend Engineer** with **4+ years of experience** building scalable web applications, high-throughput APIs, and enterprise cloud architectures. Specialized in **Ruby on Rails, Laravel, React, Next.js, and Node.js**, with a strong background in database optimization, distributed systems, and AI-assisted engineering workflows.
+**Full-Stack / Backend Engineer** with **3+ years of experience** building scalable web applications, high-throughput APIs, and enterprise cloud architectures. Specialized in **Ruby on Rails, Laravel, React, Next.js, and Node.js**, with a strong background in database optimization, distributed systems, and AI-assisted engineering workflows.
 
 ---
 
